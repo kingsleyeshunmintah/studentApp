@@ -43,13 +43,13 @@ student_course_manager/
  ┣ ios/...
  ┗ web/...
  
-<img width="274" height="431" alt="snip5" src="https://github.com/user-attachments/assets/2134124d-89f4-4c36-97f4-2ce18245bf2f" />
-<img width="1247" height="781" alt="snip7" src="https://github.com/user-attachments/assets/48509ae0-5c2b-44b6-bcd9-06fe47b4b4a2" />
-<img width="1247" height="797" alt="snip6" src="https://github.com/user-attachments/assets/77581dd0-a3b9-47ed-a922-c3d09c692157" />
 
+<img width="1247" height="781" alt="snip7" src="https://github.com/user-attachments/assets/48509ae0-5c2b-44b6-bcd9-06fe47b4b4a2" />
+<img width="274" height="431" alt="snip5" src="https://github.com/user-attachments/assets/2134124d-89f4-4c36-97f4-2ce18245bf2f" />
 <img width="376" height="722" alt="snip3 " src="https://github.com/user-attachments/assets/1b24c3a6-3b43-451b-ad92-e494511864da" />
 <img width="373" height="721" alt="snip 2" src="https://github.com/user-attachments/assets/4c80155f-255b-4c4f-8d25-13c2b9b484dc" />
 <img width="1247" height="788" alt="Snip 1" src="https://github.com/user-attachments/assets/df613d62-775e-4d5d-8af0-596875f5a63c" />
+<img width="1247" height="797" alt="snip6" src="https://github.com/user-attachments/assets/77581dd0-a3b9-47ed-a922-c3d09c692157" />
 
 Author : Eshun Kingsley Mintah
 https://github.com/kingsleyeshunmintah
